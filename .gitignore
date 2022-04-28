@@ -133,3 +133,5 @@ frontend/yarn-error.log
 *.ntvs*
 *.njsproj
 *.sln
+
+assets/

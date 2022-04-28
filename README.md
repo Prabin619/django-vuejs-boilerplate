@@ -34,6 +34,12 @@ source <virtual_env_name>/bin/activate
 pip install -r requirements.txt
 ```
 
+> Run collectstatic command
+
+```shell
+pip manage.py collectstatic
+```
+
 > Run Python Server
 
 ```shell
@@ -64,3 +70,8 @@ Both will keep server runnning. However, watch will automatically reload your sc
 ```shell
 npm run build
 ```
+
+## Author
+
+### <a href="https://np.linkedin.com/in/prabin-sapal-7b9559126" target="_blank">Prabin Sapal - Software Developer</a>
+
