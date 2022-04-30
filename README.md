@@ -61,9 +61,9 @@ npm install
 npm run dev
      or 
 npm run watch
-
-Both will keep server runnning. However, watch will automatically reload your screen when any vue file is updated, unlike dev.
 ```
+
+###Both will keep server runnning. However, watch will automatically reload your screen when any vue file is updated, unlike dev.
 
 > Build npm for Production mode
 
@@ -73,5 +73,5 @@ npm run build
 
 ## Author
 
-### <a href="https://np.linkedin.com/in/prabin-sapal-7b9559126" target="_blank">Prabin Sapal - Software Developer</a>
+#### <a href="https://np.linkedin.com/in/prabin-sapal-7b9559126" target="_blank">Prabin Sapal - Software Developer</a>
 
